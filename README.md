@@ -5,7 +5,7 @@ Electronics (Firmware), Infrastructure and Cybersecurity are my main interests.
 
 I’m currently learning more about implementations of Software Defined Networking (SDN) 
 
-- 💞️ I'm not currently looking to collaborate at this time.
+- 💞️ I'm not currently looking to collaborate on any FOSS projects at this time.
 
 <!---
 than3-bits/than3-bits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
