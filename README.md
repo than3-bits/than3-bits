@@ -10,7 +10,8 @@ At this point it has become clear that the downturn is no longer just a fad, but
 Experiences in job seeking, and with recruiters, showing poor call conversion ratios support this view. I've seen a multiple order of magnitude reduction in the response rate for any IT position, and equal order of magnitude increases in illegitimate ghost job postings.
 There is no longer any clear differentiable way to tell legitimate postings from fake. One must go wherever the work is to put food on the table, and that is clearly not in IT.
 
-What was once 3 calls per 100 submissions is now 1200+ to 1. No competent individual can bare that arbitrary cost alone for a sustained period of time (in years), and so I will adapt to this new future AI has brought us.
+What was once 3 calls per 100 submissions is now 1 call to 1200+ submissions. 
+No competent individual can bare that arbitrary cost alone for a sustained period of time (in years), and so I will adapt to this new future AI has brought us.
 
 - 💞️ I'm not currently looking to collaborate on any FOSS projects at this time, or in the future. I've migrated my primary repositories off github.
 
