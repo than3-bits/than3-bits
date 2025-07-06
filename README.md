@@ -8,9 +8,9 @@ I'm currently exploring opportunities outside my area of expertise given the lac
 At this point it has become clear that the downturn is no longer just a fad, but rather a strong trend suggesting that there is no future in IT based roles.
 
 Experiences in job seeking, and with recruiters, showing poor call conversion ratios support this view. I've seen a multiple order of magnitude reduction in the response rate for any IT position, and equal order of magnitude increases in illegitimate ghost job postings.
-There is no longer any clear differentiable way to tell legitimate postings from fake. One must go wherever the work is to put food on the table.
+There is no longer any clear differentiable way to tell legitimate postings from fake. One must go wherever the work is to put food on the table, and that is clearly not in IT.
 
-A 1200:1 application to cold call response ratio for someone of my professional experience is absolutely untenable.
+What was once 3 calls per 100 submissions is now 1200+ to 1. No competent individual can bare that arbitrary cost alone for a sustained period of time (in years).
 
 - 💞️ I'm not currently looking to collaborate on any FOSS projects at this time, or in the future. I've migrated my primary repositories off github.
 
